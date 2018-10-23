@@ -27,7 +27,7 @@
       ["app/design/frontend/base/default/template/mageplaza_betterblog/", "app/design/frontend/base/default/template/mageplaza_betterblog/"],
 
       ["skin/frontend/base/default/css/mageplaza_betterblog/style.css", "skin/frontend/base/default/css/mageplaza_betterblog/style.css"],
-      ["skin/frontend/base/default/images/mageplaza_betterblog/", "skin/frontend/base/default/css/mageplaza_betterblog/style.css"],
+      ["skin/frontend/base/default/images/mageplaza_betterblog/", "skin/frontend/base/default/images/mageplaza_betterblog/"],
 
       ["skin/frontend/base/default/js/mageplaza_betterblog/tree.js", "skin/frontend/base/default/js/mageplaza_betterblog/tree.js"]
       
