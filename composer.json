@@ -17,6 +17,8 @@
 
       ["app/locale/en_US/Mageplaza_BetterBlog.csv", "app/locale/en_US/Mageplaza_BetterBlog.csv"],
 
+      ["media/post/image/", "media/post/image/"],
+      ["sitemap/", "sitemap/"],
 
       ["app/design/adminhtml/default/default/layout/mageplaza_betterblog.xml", "app/design/adminhtml/default/default/layout/mageplaza_betterblog.xml"],
       ["app/design/adminhtml/default/default/template/mageplaza_betterblog/", "app/design/adminhtml/default/default/template/mageplaza_betterblog/"],
