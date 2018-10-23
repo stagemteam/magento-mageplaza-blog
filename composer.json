@@ -1,0 +1,34 @@
+{
+  "name": "stagem/magento-mageplaza-blog",
+  "type": "magento-module",
+  "license": "MIT Licence",
+  "description": "Mageplaza Blog Module for Magento 1",
+  "authors": [
+    {
+      "name": "Vlad Kozak",
+      "email": "vk@stagem.com.ua"
+    }
+  ],
+  "extra": {
+    "map": [
+      ["app/code/local/Mageplaza/BetterBlog/", "app/code/local/Mageplaza/BetterBlog/"],
+
+      ["app/etc/modules/Mageplaza_BetterBlog.xml", "app/etc/modules/Mageplaza_BetterBlog.xml"],
+
+      ["app/locale/en_US/Mageplaza_BetterBlog.csv", "app/locale/en_US/Mageplaza_BetterBlog.csv"],
+
+
+      ["app/design/adminhtml/default/default/layout/mageplaza_betterblog.xml", "app/design/adminhtml/default/default/layout/mageplaza_betterblog.xml"],
+      ["app/design/adminhtml/default/default/template/mageplaza_betterblog/", "app/design/adminhtml/default/default/template/mageplaza_betterblog/"],
+
+      ["app/design/frontend/base/default/layout/mageplaza_betterblog.xml", "app/design/frontend/base/default/layout/mageplaza_betterblog.xml"],
+      ["app/design/frontend/base/default/template/mageplaza_betterblog/", "app/design/frontend/base/default/template/mageplaza_betterblog/"],
+
+      ["skin/frontend/base/default/css/mageplaza_betterblog/style.css", "skin/frontend/base/default/css/mageplaza_betterblog/style.css"],
+      ["skin/frontend/base/default/images/mageplaza_betterblog/", "skin/frontend/base/default/css/mageplaza_betterblog/style.css"],
+
+      ["skin/frontend/base/default/js/mageplaza_betterblog/tree.js", "skin/frontend/base/default/js/mageplaza_betterblog/tree.js"]
+      
+    ]
+  }
+}
